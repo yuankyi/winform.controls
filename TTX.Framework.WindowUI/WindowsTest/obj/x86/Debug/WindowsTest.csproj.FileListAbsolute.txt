@@ -51,3 +51,29 @@ D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Mi
 D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Practices.Unity.Interception.xml
 D:\Project files\Program project\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.frmList.resources
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg01.jpg
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg02.jpg
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg03.jpg
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg04.jpg
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg05.jpg
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\bg\bg06.jpg
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin.config
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\NoFlower.config
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\BlueSea.config
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\SunsetRed.config
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin\KissOfAngel.config
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Config\Skin.ini
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe.config
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.exe
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\WindowsTest.pdb
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.WindowUI.dll
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.dll
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\bin\Debug\TX.Framework.WindowUI.pdb
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csprojResolveAssemblyReference.cache
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.frmList.resources
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.winMain.resources
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.Properties.Resources.resources
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.csproj.GenerateResource.Cache
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.exe
+D:\_MY\Code\_Git\WndControl\winform.controls\TTX.Framework.WindowUI\WindowsTest\obj\x86\Debug\WindowsTest.pdb
