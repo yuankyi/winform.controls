@@ -307,7 +307,9 @@ namespace TX.Framework.WindowUI.Forms
                 CreateParams cp = base.CreateParams;
                 if (!DesignMode)
                 {
-                    cp.Style |= (int)WindowStyle.WS_THICKFRAME;
+                    //引发边框重绘问题
+                    //cp.Style |= (int)WindowStyle.WS_THICKFRAME;
+
                     if (ControlBox)
                     {
                         cp.Style |= (int)WindowStyle.WS_SYSMENU;
